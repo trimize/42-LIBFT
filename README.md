@@ -32,4 +32,6 @@ Compiling your file :
 cc -Wall -Wextra -Werror your_file.c libft.a
 ```
 
-Final Grade : 125
+## Grade
+
+125
