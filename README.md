@@ -14,6 +14,12 @@ git clone https://github.com/trimize/42-libft.git && cd 42-libft
 make
 ```
 
+For even more functions :
+
+```bash
+make bonus
+```
+
 This will compile the library then include the header in your main
 to use the functions of the library.
 
